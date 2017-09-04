@@ -1,0 +1,14 @@
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Payment_job_scheduling_PG.exe.config
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Payment_job_scheduling_PG.exe
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Payment_job_scheduling_PG.pdb
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\MySql.Data.dll
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Newtonsoft.Json.dll
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Newtonsoft.Json.xml
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\obj\Debug\Payment_job_scheduling_PG.exe
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\obj\Debug\Payment_job_scheduling_PG.pdb
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\obj\Debug\Payment_job_scheduling_PG.csprojResolveAssemblyReference.cache
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Payment_job_scheduling_PG.exe.manifest
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\bin\Debug\Payment_job_scheduling_PG.application
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\obj\Debug\Payment_job_scheduling_PG.exe.manifest
+D:\mnc porject\mas_angga\huda\Payment_job_scheduling_PG\Payment_job_scheduling_PG\obj\Debug\Payment_job_scheduling_PG.application
